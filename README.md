@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AfanShaikh/AfanShaikh/main/banner.png" alt="Afan Aslam Shaikh Banner" />
-</p>
-
-<br/>
 <h1 align="center">Hi 👋, I'm Afan Aslam Shaikh</h1>
 <h3 align="center">Full Stack Developer (PHP) | JavaScript | React</h3>
 
@@ -37,7 +32,7 @@
 - PHP  
 
 **Tools & Platforms**  
-- Git | GitHub | VS Code | Netlify  
+- Git | GitHub | VS Code 
 
 ---
 
@@ -51,7 +46,7 @@ A clean and responsive calculator built using JavaScript with proper input handl
 - ⚡ Fast and lightweight  
 
 🔗 **Live Demo:** https://clinquant-cactus-57aaf0.netlify.app/  
-📂 **Code:** https://github.com/AfanShaikh/calculator  
+📂 **Code:** https://github.com/AfanShaikh/CALCULATOR-WITH-JS  
 
 ---
 
@@ -63,7 +58,7 @@ A real-time weather application fetching live data with a modern and user-friend
 - 🎨 Clean and modern UI  
 
 🔗 **Live Demo:** https://bright-medovik-weather-app.netlify.app/  
-📂 **Code:** https://github.com/AfanShaikh/weather-app  
+📂 **Code:** https://github.com/AfanShaikh/Weather-App---With-JS
 
 ---
 
