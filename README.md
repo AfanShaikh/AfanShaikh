@@ -1,16 +1,89 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AfanShaikh/AfanShaikh/main/banner.png" alt="Afan Aslam Shaikh Banner" />
+</p>
 
-<!--
-**AfanShaikh/AfanShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<h1 align="center">Hi 👋, I'm Afan Aslam Shaikh</h1>
+<h3 align="center">Full Stack Developer (PHP) | JavaScript | React</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/afan-shaikh-153009387" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Afan%20Shaikh-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:shaikhaffan.8286@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shaikhaffan.8286%40gmail.com-red?style=flat&logo=gmail">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BSc IT Graduate  
+- 💻 Full Stack Developer with strong PHP & JavaScript foundation  
+- ⚛️ Experienced in building modern frontend apps using React  
+- 🌐 Passionate about clean UI, scalable logic, and real-world projects  
+- 🚀 Continuously improving JavaScript internals & full stack skills  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+- HTML5 | CSS3 | JavaScript (ES6+)  
+- React  
+
+**Backend**  
+- PHP  
+
+**Tools & Platforms**  
+- Git | GitHub | VS Code | Netlify  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧮 Calculator App
+A clean and responsive calculator built using JavaScript with proper input handling and UI design.
+
+- ➕ Basic arithmetic operations
+- 🎯 Responsive UI
+- ⚡ Fast and lightweight  
+
+🔗 **Live Demo:** https://clinquant-cactus-57aaf0.netlify.app/  
+📂 **Code:** https://github.com/AfanShaikh/calculator  
+
+---
+
+### 🌦️ Weather App
+A real-time weather application fetching live data with a modern and user-friendly interface.
+
+- 🌍 Search weather by city
+- ☁️ Real-time weather data
+- 🎨 Clean and modern UI  
+
+🔗 **Live Demo:** https://bright-medovik-weather-app.netlify.app/  
+📂 **Code:** https://github.com/AfanShaikh/weather-app  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfanShaikh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfanShaikh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/afan-shaikh-153009387  
+- 📧 Email: shaikhaffan.8286@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
