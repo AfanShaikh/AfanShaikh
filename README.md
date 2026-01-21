@@ -24,15 +24,9 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-- HTML5 | CSS3 | JavaScript (ES6+)  
-- React  
-
-**Backend**  
-- PHP  
-
-**Tools & Platforms**  
-- Git | GitHub | VS Code 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,mysql,php,git,github,vscode" />
+</p>
 
 ---
 
