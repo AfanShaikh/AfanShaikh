@@ -56,6 +56,20 @@ A real-time weather application fetching live data with a modern and user-friend
 
 ---
 
+## 🐠 AquaLife Aquarium Store
+
+A modern and responsive aquarium-themed website built using HTML, CSS, and JavaScript. It showcases aquarium products, fish categories, and provides a clean UI for browsing aquatic items.
+
+- 🐟 Aquarium product showcase
+- 📱 Fully responsive design
+- 🎨 Modern and clean UI
+- ⚡ Fast and lightweight
+
+🔗 **Live Demo:** https://aqualifes.netlify.app/  
+📂 **Code:** https://github.com/AfanShaikh/AquaLife
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
