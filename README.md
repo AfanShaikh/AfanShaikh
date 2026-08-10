@@ -43,7 +43,7 @@ A modern and responsive aquarium website built using HTML, CSS, and JavaScript w
 
 🔗 Live Demo: [https://aqualife-psi.vercel.app/](https://aqualife-psi.vercel.app/)
 
-📂 Code: https://github.com/AfanShaikh/Aqua
+📂 **Code**: https://github.com/AfanShaikh/Aqua
 ---
 
 ### Jujutsu Kaisen Info
@@ -56,9 +56,9 @@ A visually engaging Jujutsu Kaisen information website built using HTML, CSS, an
 🎵 Opening and ending sections  
 📱 Responsive UI  
 
-🔗 Live Demo: [https://jjksample.netlify.app/](https://jjksample.netlify.app/)
+🔗 Live Demo: [https://jjksample.netlify.app/](https://jujutsu-kaisen-info.netlify.app/)
 
-📂 Code: https://github.com/AfanShaikh/Jujutsu-Kaisen-
+📂 **Code**: https://github.com/AfanShaikh/Jujutsu-Kaisen-
 ---
 
 ### 🧮 Calculator App
@@ -68,7 +68,7 @@ A clean and responsive calculator built using JavaScript with proper input handl
 - 🎯 Responsive UI
 - ⚡ Fast and lightweight  
 
-🔗 **Live Demo:** https://clinquant-cactus-57aaf0.netlify.app/  
+🔗 **Live Demo:** https://calu-js.netlify.app/  
 📂 **Code:** https://github.com/AfanShaikh/CALCULATOR-WITH-JS  
 
 ---
