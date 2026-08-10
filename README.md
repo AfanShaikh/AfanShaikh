@@ -79,16 +79,11 @@ A clean and responsive calculator built using JavaScript with proper input handl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfanShaikh&theme=tokyonight" />
 </p>
 
- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfanShaikh&theme=tokyonight" />
-</p> 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfanShaikh&theme=tokyonight" />
 </p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=AfanShaikh" alt="AfanShaikh" /></p>
----
 
 ## 🤝 Connect With Me
 
