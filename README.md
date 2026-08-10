@@ -87,7 +87,7 @@ A clean and responsive calculator built using JavaScript with proper input handl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfanShaikh&theme=tokyonight" />
 </p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=AfanShaikh&theme=tokyonight)](https://git.io/streak-stats)</p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=AfanShaikh" alt="AfanShaikh" /></p>
 ---
 
 ## 🤝 Connect With Me
