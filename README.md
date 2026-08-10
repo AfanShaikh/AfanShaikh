@@ -25,12 +25,41 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,mysql,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,mysql,php,git,github,vercel,netlify,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### AquaLife
+
+A modern and responsive aquarium website built using HTML, CSS, and JavaScript with a clean UI and interactive sections.
+
+🐠 Aquarium and aquatic content  
+🎨 Clean and modern UI  
+📱 Responsive design  
+⚡ Fast and lightweight  
+
+🔗 Live Demo: [https://aqualife-psi.vercel.app/](https://aqualife-psi.vercel.app/)
+
+📂 Code: https://github.com/AfanShaikh/Aqua
+---
+
+### Jujutsu Kaisen Info
+
+A visually engaging Jujutsu Kaisen information website built using HTML, CSS, and JavaScript with dedicated sections for characters, seasons, episodes, openings, and endings.
+
+🌀 Anime information and details  
+👤 Character profiles and search  
+🎬 Seasons and episode information  
+🎵 Opening and ending sections  
+📱 Responsive UI  
+
+🔗 Live Demo: [https://jjksample.netlify.app/](https://jjksample.netlify.app/)
+
+📂 Code: https://github.com/AfanShaikh/Jujutsu-Kaisen-
+---
 
 ### 🧮 Calculator App
 A clean and responsive calculator built using JavaScript with proper input handling and UI design.
@@ -41,32 +70,6 @@ A clean and responsive calculator built using JavaScript with proper input handl
 
 🔗 **Live Demo:** https://clinquant-cactus-57aaf0.netlify.app/  
 📂 **Code:** https://github.com/AfanShaikh/CALCULATOR-WITH-JS  
-
----
-
-### 🌦️ Weather App
-A real-time weather application fetching live data with a modern and user-friendly interface.
-
-- 🌍 Search weather by city
-- ☁️ Real-time weather data
-- 🎨 Clean and modern UI  
-
-🔗 **Live Demo:** https://bright-medovik-weather-app.netlify.app/  
-📂 **Code:** https://github.com/AfanShaikh/Weather-App---With-JS
-
----
-
-## 🐠 AquaLife Aquarium Store
-
-A modern and responsive aquarium-themed website built using HTML, CSS, and JavaScript. It showcases aquarium products, fish categories, and provides a clean UI for browsing aquatic items.
-
-- 🐟 Aquarium product showcase
-- 📱 Fully responsive design
-- 🎨 Modern and clean UI
-- ⚡ Fast and lightweight
-
-🔗 **Live Demo:** https://aqualifes.netlify.app/  
-📂 **Code:** https://github.com/AfanShaikh/AquaLife
 
 ---
 
@@ -84,7 +87,7 @@ A modern and responsive aquarium-themed website built using HTML, CSS, and JavaS
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfanShaikh&theme=tokyonight" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AfanShaikh&" alt="AfanShaikh" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=AfanShaikh&theme=tokyonight)](https://git.io/streak-stats)</p>
 ---
 
 ## 🤝 Connect With Me
